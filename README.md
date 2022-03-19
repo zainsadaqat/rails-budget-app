@@ -1,24 +1,68 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Rails Budget App
 
-Things you may want to cover:
+> Rails budget app is a expense tracker app where an authorized user can log and add transaction to specific categories.
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby on Rails
+- RSPEC-RAILS, Capybara
 
-* Configuration
+### Unfortunately, my LOOM is not working. I'm trying this for a couple of hours.
 
-* Database creation
+## Live Demo
 
-* Database initialization
+[Live Demo Link](https://livedemo.com)
 
-* How to run the test suite
+## Getting Started
 
-* Services (job queues, cache servers, search engines, etc.)
+### copy
 
-* Deployment instructions
+```
+git@github.com:zainsadaqat/rails-budget-app.git
+```
 
-* ...
+####
+
+```
+git clone git@github.com:zainsadaqat/rails-budget-app.git
+```
+
+```
+cd rails-budget-app
+```
+
+```
+bundle install
+```
+
+```
+rails s
+```
+
+## Authors
+
+👤 **Zain Sadaqat**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Original design idea by Gregoire Vella on Behance.
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
