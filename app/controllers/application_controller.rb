@@ -12,6 +12,6 @@ class ApplicationController < ActionController::Base
   end
 
   def after_sign_in_path_for(_user)
-    root_path
+    categories_path
   end
 end
